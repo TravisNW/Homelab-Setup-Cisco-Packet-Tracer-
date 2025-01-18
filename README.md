@@ -10,9 +10,6 @@ The objective of this project was to establish a strong foundation in basic netw
 - <b>Networking Configuration</b>
 - <b>Firewall Security Management</b>
 
-<h2>Network Topology</h2>
-
-
 <h2>Steps</h2>
 
 **Network Topology:** <br/>
