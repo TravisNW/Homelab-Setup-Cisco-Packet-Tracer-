@@ -18,7 +18,7 @@ The objective of this project was to establish a strong foundation in basic netw
 <br />
 
 **Basic Network Configuration:** <br/>
-To enhance network security and mitigate risks, I implemented network segmentation by utilizing the 'dhcp pool' command to assign IP addresses to clients based on their connection type. This approach effectively separates wired and wireless networks, ensuring that if the wireless network were compromised, its impact would be isolated from the rest of the network infrastructure. <br/>
+To enhance network security and mitigate risks, I implemented network segmentation by utilizing the dhcp pool command to assign IP addresses to clients based on their connection type. This approach effectively separates wired and wireless networks, ensuring that if the wireless network were compromised, its impact would be isolated from the rest of the network infrastructure. <br/>
 <br />
 ![2](https://github.com/user-attachments/assets/baa757d0-352c-48ec-9555-030913706154) <br />
 <br />
